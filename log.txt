@@ -1,0 +1,195 @@
+2019-02-02 06:07:38,048 - FlickrCrawler - DEBUG - MYSQL DB password is protected with sKey: MxSzysi-9iFulgOBJP9qV0ITkELSabR8QnFT3YafM6I=
+2019-02-02 06:07:38,129 - FlickrCrawler - DEBUG - MYSQL DB password cipher code: gAAAAABcVOZSTBUmfPeslqIRgGJIuLsVlTQhHprvqR5_rEAzL0avMlwCpw7vm1eSSlXVLlF-T9UqgM8e_xRbleQq8FvrUnd2Ag==
+2019-02-02 06:07:38,129 - FlickrCrawler - DEBUG - MYSQL DB Password is: suren
+2019-02-02 06:07:38,135 - FlickrCrawler - DEBUG - Creating DB: 'SKFlickrDB'
+2019-02-02 06:07:38,543 - FlickrCrawler - DEBUG - Table 'user' created successfully.
+2019-02-02 06:07:38,778 - FlickrCrawler - DEBUG - Table 'links' created successfully.
+2019-02-02 06:07:39,047 - FlickrCrawler - DEBUG - Table 'photo' created successfully.
+2019-02-02 06:07:39,285 - FlickrCrawler - DEBUG - Table 'tags' created successfully.
+2019-02-02 06:07:39,285 - FlickrCrawler - INFO - Tables have been created successfully.
+2019-02-02 06:07:39,285 - FlickrCrawler - DEBUG - Exploring the user: 'suren44' with user-id: '59634928@N04'
+2019-02-02 06:07:44,792 - FlickrCrawler - INFO - Inserted photo '5453908212' into database
+2019-02-02 06:07:44,793 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908212-112662' into tags table
+2019-02-02 06:07:44,793 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908212-2588927' into tags table
+2019-02-02 06:07:44,878 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908212-210086' into tags table
+2019-02-02 06:07:44,878 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908212-622875' into tags table
+2019-02-02 06:07:44,878 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908212-393' into tags table
+2019-02-02 06:07:44,879 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908212-325079' into tags table
+2019-02-02 06:07:44,879 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908212-2502460' into tags table
+2019-02-02 06:07:47,564 - FlickrCrawler - INFO - Inserted photo '5453908158' into database
+2019-02-02 06:07:47,564 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908158-112662' into tags table
+2019-02-02 06:07:47,564 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908158-2588927' into tags table
+2019-02-02 06:07:47,565 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908158-210086' into tags table
+2019-02-02 06:07:47,565 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908158-622875' into tags table
+2019-02-02 06:07:47,565 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908158-393' into tags table
+2019-02-02 06:07:47,565 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908158-325079' into tags table
+2019-02-02 06:07:47,566 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908158-2502460' into tags table
+2019-02-02 06:07:50,171 - FlickrCrawler - INFO - Inserted photo '5453908102' into database
+2019-02-02 06:07:50,171 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908102-112662' into tags table
+2019-02-02 06:07:50,172 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908102-2588927' into tags table
+2019-02-02 06:07:50,172 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908102-210086' into tags table
+2019-02-02 06:07:50,172 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908102-622875' into tags table
+2019-02-02 06:07:50,173 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908102-393' into tags table
+2019-02-02 06:07:50,173 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908102-325079' into tags table
+2019-02-02 06:07:50,173 - FlickrCrawler - INFO - Inserted tag: '59602789-5453908102-2502460' into tags table
+2019-02-02 06:07:52,007 - FlickrCrawler - INFO - Inserted photo '5453296433' into database
+2019-02-02 06:07:52,008 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296433-112662' into tags table
+2019-02-02 06:07:52,008 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296433-2588927' into tags table
+2019-02-02 06:07:52,009 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296433-210086' into tags table
+2019-02-02 06:07:52,009 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296433-622875' into tags table
+2019-02-02 06:07:52,009 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296433-393' into tags table
+2019-02-02 06:07:52,010 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296433-325079' into tags table
+2019-02-02 06:07:52,010 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296433-2502460' into tags table
+2019-02-02 06:07:54,335 - FlickrCrawler - INFO - Inserted photo '5453907982' into database
+2019-02-02 06:07:54,335 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907982-112662' into tags table
+2019-02-02 06:07:54,336 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907982-2588927' into tags table
+2019-02-02 06:07:54,336 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907982-210086' into tags table
+2019-02-02 06:07:54,336 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907982-622875' into tags table
+2019-02-02 06:07:54,337 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907982-393' into tags table
+2019-02-02 06:07:54,337 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907982-325079' into tags table
+2019-02-02 06:07:54,337 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907982-2502460' into tags table
+2019-02-02 06:07:56,923 - FlickrCrawler - INFO - Inserted photo '5453296237' into database
+2019-02-02 06:07:56,923 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296237-112662' into tags table
+2019-02-02 06:07:56,924 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296237-2588927' into tags table
+2019-02-02 06:07:56,924 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296237-210086' into tags table
+2019-02-02 06:07:56,925 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296237-622875' into tags table
+2019-02-02 06:07:56,925 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296237-393' into tags table
+2019-02-02 06:07:56,926 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296237-325079' into tags table
+2019-02-02 06:07:56,926 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296237-2502460' into tags table
+2019-02-02 06:07:59,045 - FlickrCrawler - INFO - Inserted photo '5453296161' into database
+2019-02-02 06:07:59,045 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296161-112662' into tags table
+2019-02-02 06:07:59,045 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296161-2588927' into tags table
+2019-02-02 06:07:59,046 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296161-210086' into tags table
+2019-02-02 06:07:59,046 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296161-622875' into tags table
+2019-02-02 06:07:59,046 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296161-393' into tags table
+2019-02-02 06:07:59,047 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296161-325079' into tags table
+2019-02-02 06:07:59,047 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296161-2502460' into tags table
+2019-02-02 06:08:01,285 - FlickrCrawler - INFO - Inserted photo '5453296103' into database
+2019-02-02 06:08:01,347 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296103-112662' into tags table
+2019-02-02 06:08:01,347 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296103-2588927' into tags table
+2019-02-02 06:08:01,348 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296103-210086' into tags table
+2019-02-02 06:08:01,348 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296103-622875' into tags table
+2019-02-02 06:08:01,348 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296103-393' into tags table
+2019-02-02 06:08:01,349 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296103-325079' into tags table
+2019-02-02 06:08:01,349 - FlickrCrawler - INFO - Inserted tag: '59602789-5453296103-2502460' into tags table
+2019-02-02 06:08:04,505 - FlickrCrawler - INFO - Inserted photo '5453907710' into database
+2019-02-02 06:08:04,505 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907710-112662' into tags table
+2019-02-02 06:08:04,506 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907710-2588927' into tags table
+2019-02-02 06:08:04,506 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907710-210086' into tags table
+2019-02-02 06:08:04,506 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907710-622875' into tags table
+2019-02-02 06:08:04,507 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907710-393' into tags table
+2019-02-02 06:08:04,507 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907710-325079' into tags table
+2019-02-02 06:08:04,507 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907710-2502460' into tags table
+2019-02-02 06:08:06,451 - FlickrCrawler - INFO - Inserted photo '5453907502' into database
+2019-02-02 06:08:06,452 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907502-112662' into tags table
+2019-02-02 06:08:06,452 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907502-2588927' into tags table
+2019-02-02 06:08:06,452 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907502-210086' into tags table
+2019-02-02 06:08:06,452 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907502-622875' into tags table
+2019-02-02 06:08:06,453 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907502-393' into tags table
+2019-02-02 06:08:06,453 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907502-325079' into tags table
+2019-02-02 06:08:06,453 - FlickrCrawler - INFO - Inserted tag: '59602789-5453907502-2502460' into tags table
+2019-02-02 06:08:08,415 - FlickrCrawler - INFO - Inserted photo '5453295815' into database
+2019-02-02 06:08:08,416 - FlickrCrawler - INFO - Inserted tag: '59602789-5453295815-112662' into tags table
+2019-02-02 06:08:08,416 - FlickrCrawler - INFO - Inserted tag: '59602789-5453295815-2588927' into tags table
+2019-02-02 06:08:08,417 - FlickrCrawler - INFO - Inserted tag: '59602789-5453295815-210086' into tags table
+2019-02-02 06:08:08,417 - FlickrCrawler - INFO - Inserted tag: '59602789-5453295815-622875' into tags table
+2019-02-02 06:08:08,418 - FlickrCrawler - INFO - Inserted tag: '59602789-5453295815-393' into tags table
+2019-02-02 06:08:08,418 - FlickrCrawler - INFO - Inserted tag: '59602789-5453295815-325079' into tags table
+2019-02-02 06:08:08,419 - FlickrCrawler - INFO - Inserted tag: '59602789-5453295815-2502460' into tags table
+2019-02-02 06:08:10,355 - FlickrCrawler - INFO - Inserted photo '5453295737' into database
+2019-02-02 06:08:10,356 - FlickrCrawler - INFO - Inserted tag: '59602789-5453295737-112662' into tags table
+2019-02-02 06:08:10,356 - FlickrCrawler - INFO - Inserted tag: '59602789-5453295737-2588927' into tags table
+2019-02-02 06:08:10,356 - FlickrCrawler - INFO - Inserted tag: '59602789-5453295737-210086' into tags table
+2019-02-02 06:08:10,357 - FlickrCrawler - INFO - Inserted tag: '59602789-5453295737-622875' into tags table
+2019-02-02 06:08:10,357 - FlickrCrawler - INFO - Inserted tag: '59602789-5453295737-393' into tags table
+2019-02-02 06:08:10,357 - FlickrCrawler - INFO - Inserted tag: '59602789-5453295737-325079' into tags table
+2019-02-02 06:08:10,357 - FlickrCrawler - INFO - Inserted tag: '59602789-5453295737-2502460' into tags table
+2019-02-02 06:08:12,163 - FlickrCrawler - INFO - Inserted user link (59634928@N04, 11019502@N08) into database.
+2019-02-02 06:08:12,163 - FlickrCrawler - DEBUG - Queue Size: 1, self.nUsers: 1
+2019-02-02 06:08:12,164 - FlickrCrawler - INFO - Inserted user link (59634928@N04, 60165012@N04) into database.
+2019-02-02 06:08:12,164 - FlickrCrawler - DEBUG - Queue Size: 2, self.nUsers: 2
+2019-02-02 06:08:14,405 - FlickrCrawler - DEBUG - User: '11019502@N08' has no photos
+2019-02-02 06:08:20,935 - FlickrCrawler - INFO - Inserted photo '5553104789' into database
+2019-02-02 06:08:23,149 - FlickrCrawler - INFO - Inserted photo '5553103161' into database
+2019-02-02 06:08:25,979 - FlickrCrawler - INFO - Inserted photo '5553687338' into database
+2019-02-02 06:08:28,022 - FlickrCrawler - INFO - Inserted photo '5553101299' into database
+2019-02-02 06:08:29,946 - FlickrCrawler - INFO - Inserted photo '5553685764' into database
+2019-02-02 06:08:32,644 - FlickrCrawler - INFO - Inserted photo '5553099669' into database
+2019-02-02 06:08:35,844 - FlickrCrawler - INFO - Inserted photo '5553098691' into database
+2019-02-02 06:08:38,078 - FlickrCrawler - INFO - Inserted photo '5553097413' into database
+2019-02-02 06:08:40,037 - FlickrCrawler - INFO - Inserted photo '5553095955' into database
+2019-02-02 06:08:41,981 - FlickrCrawler - INFO - Inserted photo '5553680274' into database
+2019-02-02 06:08:43,843 - FlickrCrawler - INFO - Inserted photo '5553093943' into database
+2019-02-02 06:08:46,183 - FlickrCrawler - INFO - Inserted photo '5495105524' into database
+2019-02-02 06:08:48,383 - FlickrCrawler - INFO - Inserted photo '5495105216' into database
+2019-02-02 06:08:51,265 - FlickrCrawler - INFO - Inserted photo '5494512319' into database
+2019-02-02 06:08:54,283 - FlickrCrawler - INFO - Inserted photo '5495104522' into database
+2019-02-02 06:08:57,648 - FlickrCrawler - INFO - Inserted photo '5494511779' into database
+2019-02-02 06:08:59,958 - FlickrCrawler - INFO - Inserted photo '5495103816' into database
+2019-02-02 06:09:02,002 - FlickrCrawler - INFO - Inserted photo '5495103534' into database
+2019-02-02 06:09:05,103 - FlickrCrawler - INFO - Inserted photo '5494510659' into database
+2019-02-02 06:09:08,273 - FlickrCrawler - INFO - Inserted photo '5494510439' into database
+2019-02-02 06:09:10,397 - FlickrCrawler - INFO - Inserted photo '5495102650' into database
+2019-02-02 06:09:12,702 - FlickrCrawler - INFO - Inserted photo '5494509979' into database
+2019-02-02 06:09:14,647 - FlickrCrawler - INFO - Inserted photo '5494509821' into database
+2019-02-02 06:09:16,563 - FlickrCrawler - INFO - Inserted photo '5495102048' into database
+2019-02-02 06:09:18,899 - FlickrCrawler - INFO - Inserted photo '5495101842' into database
+2019-02-02 06:09:21,116 - FlickrCrawler - INFO - Inserted photo '5495101670' into database
+2019-02-02 06:09:22,881 - FlickrCrawler - INFO - Inserted photo '5494509057' into database
+2019-02-02 06:09:25,120 - FlickrCrawler - INFO - Inserted photo '5495101344' into database
+2019-02-02 06:09:27,426 - FlickrCrawler - INFO - Inserted photo '5494508715' into database
+2019-02-02 06:09:29,400 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 24832550@N07) into database.
+2019-02-02 06:09:29,400 - FlickrCrawler - DEBUG - Queue Size: 1, self.nUsers: 3
+2019-02-02 06:09:29,400 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 7191168@N03) into database.
+2019-02-02 06:09:29,401 - FlickrCrawler - DEBUG - Queue Size: 2, self.nUsers: 4
+2019-02-02 06:09:29,470 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 14880382@N08) into database.
+2019-02-02 06:09:29,471 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 87135065@N00) into database.
+2019-02-02 06:09:29,471 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 9741274@N08) into database.
+2019-02-02 06:09:29,471 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 51320474@N03) into database.
+2019-02-02 06:09:29,472 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 8878475@N04) into database.
+2019-02-02 06:09:29,472 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 13415282@N05) into database.
+2019-02-02 06:09:29,472 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 57859280@N07) into database.
+2019-02-02 06:09:29,472 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 11412500@N04) into database.
+2019-02-02 06:09:29,473 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 54108579@N06) into database.
+2019-02-02 06:09:29,473 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 13170068@N04) into database.
+2019-02-02 06:09:29,473 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 24315046@N08) into database.
+2019-02-02 06:09:29,474 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 33992266@N07) into database.
+2019-02-02 06:09:29,474 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 58781490@N06) into database.
+2019-02-02 06:09:29,474 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 7878452@N02) into database.
+2019-02-02 06:09:29,474 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 22656614@N04) into database.
+2019-02-02 06:09:29,475 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 60209793@N06) into database.
+2019-02-02 06:09:29,475 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 11969223@N02) into database.
+2019-02-02 06:09:29,475 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 60210661@N06) into database.
+2019-02-02 06:09:29,476 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 55842270@N07) into database.
+2019-02-02 06:09:29,476 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 11019502@N08) into database.
+2019-02-02 06:09:29,476 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 23104706@N00) into database.
+2019-02-02 06:09:29,476 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 51526312@N06) into database.
+2019-02-02 06:09:29,477 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 43535160@N05) into database.
+2019-02-02 06:09:29,477 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 13706945@N00) into database.
+2019-02-02 06:09:29,477 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 26327205@N08) into database.
+2019-02-02 06:09:29,477 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 25992035@N02) into database.
+2019-02-02 06:09:29,478 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 35496620@N04) into database.
+2019-02-02 06:09:29,478 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 11272617@N03) into database.
+2019-02-02 06:09:29,478 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 53977157@N08) into database.
+2019-02-02 06:09:29,478 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 45726534@N02) into database.
+2019-02-02 06:09:29,478 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 32563641@N04) into database.
+2019-02-02 06:09:29,479 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 15627425@N05) into database.
+2019-02-02 06:09:29,479 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 50384024@N03) into database.
+2019-02-02 06:09:29,479 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 51918197@N06) into database.
+2019-02-02 06:09:29,479 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 13523974@N08) into database.
+2019-02-02 06:09:29,479 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 53528556@N07) into database.
+2019-02-02 06:09:29,480 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 95671794@N00) into database.
+2019-02-02 06:09:29,480 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 60488895@N00) into database.
+2019-02-02 06:09:29,480 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 41014377@N08) into database.
+2019-02-02 06:09:29,480 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 11097414@N08) into database.
+2019-02-02 06:09:29,481 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 89446240@N00) into database.
+2019-02-02 06:09:29,481 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 30389970@N06) into database.
+2019-02-02 06:09:29,481 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 8345867@N04) into database.
+2019-02-02 06:09:29,481 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 57474212@N03) into database.
+2019-02-02 06:09:29,481 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 39426376@N03) into database.
+2019-02-02 06:09:29,482 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 29197030@N03) into database.
+2019-02-02 06:09:29,482 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 43514033@N00) into database.
+2019-02-02 06:09:29,482 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 59634928@N04) into database.
+2019-02-02 06:09:29,482 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 59934161@N07) into database.
+2019-02-02 06:09:29,483 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 60180467@N05) into database.
+2019-02-02 06:09:29,483 - FlickrCrawler - INFO - Inserted user link (60165012@N04, 21431660@N07) into database.
